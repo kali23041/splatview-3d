@@ -1,6 +1,6 @@
 <div align="center">
 
-# 3D Gsplat
+# SplatView 3D
 
 **A web portal for a Gaussian Splatting 2D-to-3D reconstruction project.**<br/>
 Users sign up, create reconstruction projects from multi-view photos and follow their progress, while admins manage projects and explore training, parameter and quality dashboards.
@@ -73,8 +73,8 @@ Users sign up, create reconstruction projects from multi-view photos and follow 
 **Requirements:** Node.js 18+ and npm.
 
 ```bash
-git clone https://github.com/kali23041/3d-gsplat.git
-cd 3d-gsplat
+git clone https://github.com/kali23041/splatview-3d.git
+cd splatview-3d
 npm install
 npm run dev
 ```
